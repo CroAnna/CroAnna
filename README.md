@@ -1,5 +1,5 @@
-### Bok, moje ime je Ana 👋
-## IT student, interested in web development 💻
+# Bok, moje ime je Ana 👋
+### IT student, interested in web development 💻
 <img src="https://github-readme-stats.vercel.app/api?username=CroAnna&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0E1818">
 
 <!--
