@@ -1,6 +1,6 @@
 # Bok, moje ime je Ana 👋
 ### IT student, interested in web development 💻
-<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CroAnna&langs_count=8" style>
+<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CroAnna&langs_count=8&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0E1818">
 <img  align="center" src="https://github-readme-stats.vercel.app/api?username=CroAnna&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0E1818">
 
      
