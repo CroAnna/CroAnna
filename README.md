@@ -5,7 +5,7 @@
  -->
      
 <a href="https://github.com/CroAnna/github-readme-stats">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CroAnna&langs_count=3&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0E1818" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CroAnna&langs_count=4&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0E1818" />
 </a>
 <a href="https://github.com/CroAnna/convoychat">
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=CroAnna&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0E1818" />
