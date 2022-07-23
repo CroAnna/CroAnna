@@ -3,10 +3,10 @@
 
 
 <a href="https://github.com/CroAnna/github-readme-stats">
-<img height="170px" width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=croanna&layout=compact" />
+<img height="170px" width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=croanna&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0E1819" />
 
 <a href="https://github.com/CroAnna/convoychat">
-  <img height="200px" width="437px" align="center" src="https://github-readme-stats.vercel.app/api?username=CroAnna&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0E1818"  />
+  <img height="200px" width="437px" align="center" src="https://github-readme-stats.vercel.app/api?username=CroAnna&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0E1819" />
 </a>
 
 ### 👩‍💻 Technologies
