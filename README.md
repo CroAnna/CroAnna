@@ -15,7 +15,7 @@
 <img height="50px" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" />
 <img height="50px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" />
 <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
-<img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" />
+<img height="50px" src="https://seeklogo.com/images/K/kotlin-logo-6A9E0484CA-seeklogo.com.png" />
 <img height="50px" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" />
 <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 
