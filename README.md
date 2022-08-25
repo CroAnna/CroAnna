@@ -28,3 +28,14 @@
 
 
 </div>
+
+### 📲 Contact me
+<div >
+<a href="https://www.linkedin.com/in/ana-%C5%A1karica-89805120b/">
+<img height="40px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" /> </a>
+<a href="https://www.instagram.com/croanna/">
+<img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/220px-Instagram_logo_2016.svg.png" /> </a>
+
+
+
+</div>
