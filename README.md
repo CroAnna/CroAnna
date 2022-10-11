@@ -37,9 +37,4 @@
 <a href="https://www.instagram.com/croanna/">
 <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/220px-Instagram_logo_2016.svg.png" /> </a>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="550" height="300"/>
-</div>
-
-
 </div>
