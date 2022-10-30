@@ -1,16 +1,12 @@
 # Bok, moje ime je Ana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-### IT student, interested in web development 💻
-
-
+### IT student 💻
 <a href="https://github.com/CroAnna/github-readme-stats">
 <img height="210px" width="330px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=croanna&layout=compact&langs_count=10&theme=vision-friendly-dark&bg_color=121212" />
-
 <a href="https://github.com/CroAnna/convoychat">
-  <img height="350px" width="510px" align="center" src="https://github-readme-stats.vercel.app/api?username=CroAnna&&show_icons=true&theme=vision-friendly-dark&bg_color=121212" />
+  <img height="210px" width="510px" align="center" src="https://github-readme-stats.vercel.app/api?username=CroAnna&&show_icons=true&theme=vision-friendly-dark&bg_color=121212" />
 </a>
-
+  
 ### 👩‍💻 Technologies
-
 <a href="https://html.com/"><img height="50px" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" /></a>
 <a href="https://css-tricks.com/"><img height="50px" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" /></a>
 <a href="https://www.javascript.com/"><img height="50px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" /></a>
