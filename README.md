@@ -11,6 +11,7 @@
 <a href="https://css-tricks.com/"><img height="50px" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" /></a>
 <a href="https://www.javascript.com/"><img height="50px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" /></a>
 <a href="https://reactjs.org/"><img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" /></a>
+<a href="https://angular.io/"><img height="50px" src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" /></a>
 <a href="https://nodejs.org/en/"><img height="50px" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" /></a>
 <a href="https://kotlinlang.org/"><img height="50px" src="https://seeklogo.com/images/K/kotlin-logo-6A9E0484CA-seeklogo.com.png" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img height="50px" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" /></a>
