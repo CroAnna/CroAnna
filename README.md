@@ -1,9 +1,9 @@
 # Bok, moje ime je Ana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 ### IT student 💻
 <a href="https://github.com/CroAnna/github-readme-stats">
-<img height="210px" width="330px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=croanna&layout=compact&langs_count=10&theme=vision-friendly-dark&bg_color=121212" />
+<img height="210px" width="330px" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=croanna&layout=compact&langs_count=10&theme=vision-friendly-dark&bg_color=121212" />
 <a href="https://github.com/CroAnna/convoychat">
-  <img height="210px" width="510px" align="center" src="https://github-readme-stats.vercel.app/api?username=CroAnna&&show_icons=true&theme=vision-friendly-dark&bg_color=121212" />
+  <img height="210px" width="510px" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=croanna&layout=compact&langs_count=10&theme=vision-friendly-dark&bg_color=121212" />
 </a>
   
 ### 👩‍💻 Technologies
