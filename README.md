@@ -10,6 +10,7 @@
 <a href="https://html.com/"><img height="50px" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" /></a>
 <a href="https://css-tricks.com/"><img height="50px" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" /></a>
 <a href="https://www.javascript.com/"><img height="50px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" /></a>
+<a href="https://www.typescriptlang.org/"><img height="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" /></a>
 <a href="https://reactjs.org/"><img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" /></a>
 <a href="https://angular.io/"><img height="50px" src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" /></a>
 <a href="https://nodejs.org/en/"><img height="50px" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" /></a>
