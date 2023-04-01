@@ -25,7 +25,7 @@
 <a href="https://www.postman.com/"><img height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" /></a>
   <a href="https://sass-lang.com/"><img height="50px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" /></a>
 <a href="https://www.figma.com/"><img height="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" /></a>
-<a href="https://www.blender.org/"><img height="50px" src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" /></a>
+<a href="https://www.blender.org/"><img height="50px" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" /></a>
 <a href="https://www.adobe.com/products/photoshop.html"><img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Photoshop_CC_icon.png/615px-Photoshop_CC_icon.png" /></a>
 
 
