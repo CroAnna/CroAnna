@@ -4,7 +4,7 @@
 View my personal portfolio at <a href="https://ana-skarica-dev.netlify.app/" target="_blank">askarica-dev.com</a>
   
 ### 👩‍💻 My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,angular,nodejs,laravel,flutter,kotlin,cs,cpp,html,css,blender,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,angular,nodejs,laravel,flutter,kotlin,cs,cpp,tailwind,html,css,blender,figma)](https://skillicons.dev)
 
 ### 📲 Contact me
 <div class="display:flex">
