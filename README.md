@@ -9,8 +9,8 @@ View my personal portfolio at <a href="https://ana-skarica-dev.netlify.app/" tar
 ### 📲 Contact me
 <div class="display:flex">
   
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.linkedin.com/in/ana-%C5%A1karica-89805120b/)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.instagram.com/croanna/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/croanna/) 
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ana-%C5%A1karica-89805120b/)
 
 </div>
 
