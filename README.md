@@ -4,13 +4,13 @@
 View my personal portfolio at <a href="https://ana-skarica-dev.netlify.app/" target="_blank">askarica-dev.com</a>
   
 ### 👩‍💻 My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,angular,nodejs,laravel,express,flutter,kotlin,cs,cpp,tailwind,html,css,blender,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,vue,angular,tailwind,express,nodejs,laravel,flutter,kotlin,java,cs,blender,figma)](https://skillicons.dev)
 
 ### 📲 Contact me
 <div class="display:flex">
   
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/croanna/) 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ana-%C5%A1karica-89805120b/)
+[![Wev](https://skillicons.dev/icons?i=htmx)](https://ana-skarica-dev.netlify.app/) 
 
 </div>
 
