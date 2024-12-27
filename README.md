@@ -1,7 +1,6 @@
 # Hi, I'm Ana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-🌏 I am a Full-stack Developer from Croatia, IT student 
 
-View my personal portfolio at <a href="https://www.foliofusion.art/ana-skarica" target="_blank">foliofusion.art/ana-skarica</a>
+🌏 View my personal portfolio at <a href="https://www.foliofusion.art/ana-skarica" target="_blank">foliofusion.art/ana-skarica</a>
 
 ## FolioFusion
 ✨ Create your portfolio fast. Endless customization. Check it out: <a href="https://www.foliofusion.art" target="_blank">here</a>. 
@@ -11,7 +10,7 @@ View my personal portfolio at <a href="https://www.foliofusion.art/ana-skarica" 
 </a>
 
 ### 👩‍💻 My Skills
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,vue,angular,tailwind,express,nodejs,laravel,flutter,kotlin,java,cs,blender,figma)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,vue,angular,tailwind,express,go,laravel,reactnative,flutter,java,cs,docker,blender,figma)](https://skillicons.dev)
 
 ### 📲 Contact me
 <div class="display:flex">
