@@ -2,15 +2,8 @@
 
 🌏 View my personal portfolio at <a href="https://www.foliofusion.art/ana-skarica" target="_blank">foliofusion.art/ana-skarica</a>
 
-## FolioFusion
-✨ Create your portfolio fast. Endless customization. Check it out: <a href="https://www.foliofusion.art" target="_blank">here</a>. 
-
-<a href="https://www.youtube.com/watch?v=xq9LXtuduPM">
-<img height="210px" width="380px" align="center" src="https://github.com/user-attachments/assets/8fda527f-1c3c-418f-9857-e02a0686e3c8" />
-</a>
-
 ### 👩‍💻 My Skills
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,vue,angular,tailwind,express,go,laravel,reactnative,flutter,java,cs,docker,blender,figma)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=express,java,quarkus,aws,laravel,nextjs,react,vue,angular,tailwind,reactnative,flutter,docker)](https://skillicons.dev)
 
 ### 📲 Contact me
 <div class="display:flex">
@@ -19,6 +12,12 @@
 [![Wev](https://skillicons.dev/icons?i=htmx)](https://www.foliofusion.art/ana-skarica) 
 
 </div>
+
+
+### 👀 Recent Live Projects:
+- TravEM: <a href="https://putujemstravem.com">putujemstravem.com</a>
+- FolioFusion: <a href="https://www.foliofusion.art/">foliofusion.art</a>
+- Learn Croatian Signs: <a href="https://play.google.com/store/apps/details?id=com.fosleen.nepalisignsapp">Google Play Store</a>
 
 </br>
 <details><summary>
@@ -31,3 +30,5 @@ My Github stats
 </a>
 
 </details>
+
+
