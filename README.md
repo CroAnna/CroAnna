@@ -13,8 +13,8 @@
 
 </div>
 
-
 ### 👀 Recent Live Projects:
 - TravEM: <a href="https://putujemstravem.com">putujemstravem.com</a>
+- Smart Garden: <a href="https://play.google.com/store/apps/details?id=com.smartgarden.smart_garden">Google Play</a> & <a href="https://apps.apple.com/hr/app/smart-garden/id6752527277?l=hr">App Store</a>
 - FolioFusion: <a href="https://www.foliofusion.art/">foliofusion.art</a>
-- Learn Croatian Signs: <a href="https://play.google.com/store/apps/details?id=com.fosleen.nepalisignsapp">Google Play Store</a>
+- Learn Croatian Signs: <a href="https://play.google.com/store/apps/details?id=com.fosleen.nepalisignsapp">Google Play</a>
