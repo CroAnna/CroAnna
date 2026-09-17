@@ -9,7 +9,6 @@
 <div class="display:flex">
   
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ana-skarica/)
-[![Wev](https://skillicons.dev/icons?i=htmx)](https://www.foliofusion.art/ana-skarica) 
 
 </div>
 
